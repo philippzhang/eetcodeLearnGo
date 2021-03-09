@@ -96,3 +96,4 @@ data-cloud-report/ui/node_modules.zip
 
 paramsConf/*
 !/src/test/java/com/talkingdata/aeplus/queryengine/test/sql/TestSql5.java
+pkg
